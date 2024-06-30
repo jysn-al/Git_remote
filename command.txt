@@ -51,6 +51,13 @@ Repository -- like a folder/container that stores files/folders related to a pro
 * git commit -m "message"
 	- saves the changes that you've made to the files in the staging area to the repo. The "message" describes what changes were made in this commit.
 
+* git log 
+	- displays all the commits that were made
+
+* git log --oneline
+	- condense the response of git log
+
+
 GIT	
 Version Control System
 
