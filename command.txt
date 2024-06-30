@@ -57,6 +57,22 @@ Repository -- like a folder/container that stores files/folders related to a pro
 * git log --oneline
 	- condense the response of git log
 
+* git remote add origin [paste the https link from github]
+
+* git push -u origin master
+
+* git push 
+	- uploading files/folder from local repo to remote repo
+
+* git clone [paste the https link from github]
+	- creating a copy of a remote repo on your local repo
+
+* git pull 
+	- retrieving changes from a remote repo and merges them into your local repo
+
+* git fork
+	- creating a copy of an existing repo on a remote hosting platform [GitHub]
+
 
 GIT	
 Version Control System
