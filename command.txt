@@ -47,6 +47,10 @@ Repository -- like a folder/container that stores files/folders related to a pro
 
 * git add "filename"
 	- adds a specific file to the staging area
+
+* git commit -m "message"
+	- saves the changes that you've made to the files in the staging area to the repo. The "message" describes what changes were made in this commit.
+
 GIT	
 Version Control System
 
